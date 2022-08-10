@@ -1,0 +1,24 @@
+.menu-bar{
+    background-color: #1f2937;
+    font-size: 18px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    display: flex;
+}
+.header.main{
+    flex: 1;
+    font-size: 24px;
+    color: #f9faf8;
+}
+.text-container{
+    flex: 1;
+    display: flex;
+    justify-content: end;
+    color: #E5E7EB;
+}
+.header.img{
+    height: 50px;
+    width: auto;
+    margin: 20px 20px 20px 20px;
+    border: 2px solid #f9faf8;
+    border-radius: 25px;
+}
